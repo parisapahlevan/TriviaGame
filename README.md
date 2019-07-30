@@ -5,5 +5,7 @@ If the player chooses the wrong answer, tell the player they selected the wrong 
 <img width="1381" alt="Screen Shot 2019-07-29 at 4 03 20 PM" src="https://user-images.githubusercontent.com/33634179/62078458-b362c800-b21a-11e9-9667-d0dadfca8d7b.png">
 
 ## Built with
-*
-*
+* [HTML5](https://html5test.com)
+* [CSS3](https://www.w3schools.com/css)
+* [JavaScript](https://www.javascript.com)
+* [jQuery](https://jquery.com)
